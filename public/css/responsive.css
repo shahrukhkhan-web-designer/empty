@@ -1,0 +1,95 @@
+@media (max-width:768px) {
+    .slick-slider {
+        width:auto;
+    }
+    .testimonialsBox {
+        padding:25px;
+    }
+    .ourTeam p.teamText {
+        padding:0 40px;
+    }
+    .service-title {
+        padding:0 40px;
+    }
+    .innerBanner {
+        background-position: 130px 288px;
+    }
+}
+@media (max-width: 767px) {
+    .member-photo img {
+        width:100%;
+        height: auto;
+    }
+    .dedicated-member {
+        margin-bottom: 12px;
+    }
+    ul.navbar-nav {
+        background:#f0f0f0;
+    }
+    ul.navbar-nav > li {
+        padding:0 10px
+    }
+    ul.navbar-nav > li > a {
+        padding:8px 10px 5px 10px;
+    }
+}
+
+@media(max-width:576px) {
+    .banner {
+        min-height: 500px;
+    }
+    .innerBanner {
+        background:none;
+    }
+    .readMoreBtn {
+        margin-bottom: 25px;
+    }
+    .bannerContent {
+        position: absolute;
+        top: 50%;
+        left: 40%;
+        transform: translate(-40%, -35%);
+        width: 90%;
+    }
+    .bannerContent h1 {
+        font-size:21px;
+    }
+    .rightQuote {
+        right:0;
+
+    }
+    .ourTeam p.teamText {
+        padding:0 12px;
+    }
+    .service-title {
+        padding:0 12px;
+    }
+    .testimonialsBox {
+        padding:0px;
+    }
+    .smb10 {
+        margin-bottom: 10px;
+    }
+    .leftQuote {
+        left:0;
+    }
+    ul.social-list {
+        display:none;
+    }
+    .px-50 {
+        padding:0;
+
+    }
+    .px-60 {
+        padding:0;
+    }
+    .pl-50 {
+        padding:0;
+    }
+}
+
+@media(max-width:375px) {
+    .read-more {
+        margin-bottom: 50px;
+    }
+}
